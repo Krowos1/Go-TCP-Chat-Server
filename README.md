@@ -18,10 +18,11 @@ Educational TCP chat server written in Go.
 
 ```bash
 go run .
+```
 
 ## Connect
 
 ```bash
 ncat localhost 8080
-
+```
 
